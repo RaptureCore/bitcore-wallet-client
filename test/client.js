@@ -23,7 +23,7 @@ var Bitcore_ = {
 };
 
 
-var BitcorePayPro = require('bitcore-payment-protocol');
+var BitcorePayPro = require('bitcore-payment-protocol-rapture');
 
 var BWS = require('bitcore-wallet-service');
 
