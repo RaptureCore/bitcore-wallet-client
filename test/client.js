@@ -16,7 +16,7 @@ var tingodb = require('tingodb')({
 
 var log = require('../lib/log');
 
-var Bitcore = require('bitcore-lib');
+var Bitcore = require('bitcore-lib-rapture');
 var Bitcore_ = {
   btc: Bitcore,
   bch: require('bitcore-lib-cash'),
