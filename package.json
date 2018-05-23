@@ -27,7 +27,7 @@
     "async": "^0.9.0",
     "bip38": "^1.3.0",
     "bitcore-lib-cash": "^0.16.1",
-    "bitcore-lib-rapture": "^0.16.1",
+    "bitcore-lib-rapture": "^0.16.2",
     "bitcore-mnemonic-rapture": "^1.5.2",
     "bitcore-payment-protocol-rapture": ">=1.7.2",
     "json-stable-stringify": "^1.0.0",
