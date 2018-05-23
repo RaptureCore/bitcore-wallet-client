@@ -2,7 +2,7 @@
   "name": "bitcore-wallet-client-rapture",
   "description": "Client for bitcore-wallet-service-rapture",
   "author": "Rapture",
-  "version": "6.7.8",
+  "version": "6.7.9",
   "license": "MIT",
   "keywords": [
     "bitcoin",
