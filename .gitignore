@@ -32,6 +32,8 @@ node_modules
 out/
 db/*
 
+test.js
+
 docs
 
 # VIM ignore
