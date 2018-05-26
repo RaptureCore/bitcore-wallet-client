@@ -1,10 +1,10 @@
 {
-  "name": "bitcore-wallet-client",
+  "name": "bitcore-wallet-client-rapture",
   "main": "index.js",
   "version": "2.1.1",
-  "homepage": "https://github.com/bitpay/bitcore-wallet-client",
+  "homepage": "https://github.com/RaptureCore/bitcore-wallet-client-rapture",
   "authors": ["BitPay Inc"],
-  "description": "Client for bitcore-wallet-service",
+  "description": "Client for bitcore-wallet-service-rapture",
   "keywords": [
     "bitcoin",
     "copay",
